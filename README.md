@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ashlinbinu/DSA-Java/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
