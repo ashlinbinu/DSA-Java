@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashlinbinu/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
