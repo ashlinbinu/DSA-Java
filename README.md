@@ -131,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ashlinbinu/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
