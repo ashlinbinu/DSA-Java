@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashlinbinu/DSA-Java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ashlinbinu/DSA-Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashlinbinu/DSA-Java/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
