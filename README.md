@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
+| [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashlinbinu/DSA-Java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ashlinbinu/DSA-Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1470-shuffle-the-array) |
