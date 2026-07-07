@@ -2,7 +2,8 @@ class Solution {
     public long sumAndMultiply(int n) {
         if (n ==0) return 0L;
         int m = n;
-        String s= "";
+        long concatenatedNum = 0;
+        long placeValue = 1;
         int sum = 0;
         while(m>0)
         {
@@ -10,11 +11,11 @@ class Solution {
             m= m/10;
             sum+=x;
             if(x!=0)
-            {s = s+ x+"";}
+            {concatenatedNum += x * placeValue;
+                placeValue *= 10;}
 
         }
-        String ans = new StringBuilder(s).reverse().toString();
-        long res = Long.parseLong(ans)*sum;
-        return res;
+        
+        return concatenatedNum*sum;
     }
 }
