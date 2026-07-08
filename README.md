@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ashlinbinu/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/ashlinbinu/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ashlinbinu/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/ashlinbinu/DSA-Java/tree/master/1925-count-square-sum-triples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ashlinbinu/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
