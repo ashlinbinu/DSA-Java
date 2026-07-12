@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ashlinbinu/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ashlinbinu/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ashlinbinu/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0032-longest-valid-parentheses) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ashlinbinu/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
