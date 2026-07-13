@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ashlinbinu/DSA-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashlinbinu/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinbinu/DSA-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -234,11 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
