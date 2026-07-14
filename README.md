@@ -206,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ashlinbinu/DSA-Java/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ashlinbinu/DSA-Java/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/ashlinbinu/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ashlinbinu/DSA-Java/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashlinbinu/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ashlinbinu/DSA-Java/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
