@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/ashlinbinu/DSA-Java/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ashlinbinu/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ashlinbinu/DSA-Java/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/ashlinbinu/DSA-Java/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ashlinbinu/DSA-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
