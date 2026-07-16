@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ashlinbinu/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/ashlinbinu/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashlinbinu/DSA-Java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/ashlinbinu/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/ashlinbinu/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -265,4 +268,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashlinbinu/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
