@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashlinbinu/DSA-Java/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ashlinbinu/DSA-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashlinbinu/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ashlinbinu/DSA-Java/tree/master/0134-gas-station) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashlinbinu/DSA-Java/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ashlinbinu/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
