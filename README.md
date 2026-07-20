@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/ashlinbinu/DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/ashlinbinu/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashlinbinu/DSA-Java/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1710-maximum-units-on-a-truck](https://github.com/ashlinbinu/DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashlinbinu/DSA-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ashlinbinu/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/ashlinbinu/DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/ashlinbinu/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
