@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinbinu/DSA-Java/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ashlinbinu/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashlinbinu/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ashlinbinu/DSA-Java/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ashlinbinu/DSA-Java/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ashlinbinu/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
