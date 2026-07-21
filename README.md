@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinbinu/DSA-Java/tree/master/0283-move-zeroes) |
+| [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ashlinbinu/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
