@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ashlinbinu/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashlinbinu/DSA-Java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ashlinbinu/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
