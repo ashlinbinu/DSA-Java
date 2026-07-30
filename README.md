@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ashlinbinu/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ashlinbinu/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashlinbinu/DSA-Java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/1288-remove-covered-intervals) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ashlinbinu/DSA-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ashlinbinu/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ashlinbinu/DSA-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ashlinbinu/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -355,12 +358,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ashlinbinu/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ashlinbinu/DSA-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ashlinbinu/DSA-Java/tree/master/0743-network-delay-time) |
+| [1020-number-of-enclaves](https://github.com/ashlinbinu/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ashlinbinu/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/ashlinbinu/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashlinbinu/DSA-Java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
