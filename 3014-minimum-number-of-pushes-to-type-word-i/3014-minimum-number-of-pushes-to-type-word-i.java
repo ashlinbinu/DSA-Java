@@ -1,36 +1,15 @@
 class Solution {
     public int minimumPushes(String word) {
-        int len = word.length();
+        int len = word.length();//22
         int output = 0;
-        for(int i = 1; i<=len;i++)
+        int rem = len%8;//2
+        int grp = len/8;//2 
+        int i = 0;
+        for(i = 1; i<=grp;i++)
         {
-            if(i>0)
-            {
-
-            }
+            output+=8*i;//8+16
         }
 
-        if(len>=24)
-        {
-            output += (len-24)*4;
-            len = 24;
-        }
-        if(len>=16)
-        {
-            output+=(len-16) *3;
-            len = 16;
-        }
-        if(len>= 8)
-        {
-            output+=(len-8) *2;
-            len = 8;
-        }
-        if(len>=0)
-        {
-            output+=(len) *1;
-            len = 0;
-        }
-
-        return output;
+        return output+(grp+1)*rem;//24+3*2
     }
 }
