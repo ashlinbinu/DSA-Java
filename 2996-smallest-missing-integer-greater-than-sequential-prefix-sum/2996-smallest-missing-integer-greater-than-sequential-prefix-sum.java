@@ -14,15 +14,16 @@ class Solution {
             }
         }
         
-        Arrays.sort(nums);
-         for(int i = 0; i< nums.length;i++)
-        {
-            if(nums[i] == prefixsum)
-
-            {
-                prefixsum++;
-            }
+        Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
         }
-    return prefixsum;
+        
+        // 3. Increment sum until a missing integer is found
+        while (set.contains(prefixsum)) {
+            prefixsum++;
+        }
+        
+        return prefixsum;
     }
 }
