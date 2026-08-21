@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashlinbinu/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashlinbinu/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashlinbinu/DSA-Java/tree/master/0283-move-zeroes) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ashlinbinu/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/ashlinbinu/DSA-Java/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ashlinbinu/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashlinbinu/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashlinbinu/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashlinbinu/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
