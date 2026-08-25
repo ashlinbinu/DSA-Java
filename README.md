@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/ashlinbinu/DSA-Java/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/ashlinbinu/DSA-Java/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ashlinbinu/DSA-Java/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
