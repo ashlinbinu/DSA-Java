@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ashlinbinu/DSA-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/ashlinbinu/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/ashlinbinu/DSA-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/ashlinbinu/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ashlinbinu/DSA-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
