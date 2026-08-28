@@ -19,20 +19,20 @@ class Solution {
         int[][] dp = new int[obstacleGrid.length][obstacleGrid[0].length];
         for(int i = 0 ; i< obstacleGrid.length;i++)
         {
-            Arrays.fill(dp[i],0);
+            Arrays.fill(dp[i],-1);
         }
         helper(0,0,dp,obstacleGrid);
-        return dp[0][0];
+        return dp[0][0] == -1? 0: dp[0][0];
     }
 
     public void helper(int i , int j , int[][] dp ,int[][] obs)
     {
-        if(i<0 || i>=dp.length || j<0 || j>dp[0].length)
+        if(i<0 || i>=dp.length || j<0 || j>=dp[0].length)
         {
             return ;
         }
-        if(dp[i][j]!=0 || obs[i][j] == 1){return;}
-        
+        if(dp[i][j]!=-1 || obs[i][j] == 1){return;}
+        dp[i][j] = 0;
         if(i== dp.length-1 && j == dp[0].length-1)
         {
             dp[i][j] = 1;
@@ -40,13 +40,13 @@ class Solution {
         if(i+1>=0 && i+1<dp.length)
         {
             helper(i+1,j,dp,obs);
-            dp[i][j] +=dp[i+1][j];
+            if(dp[i + 1][j] != -1){dp[i][j] +=dp[i+1][j];}
         }
         
         if(j+1>=0 && j+1<dp[0].length)
         {
             helper(i,j+1,dp,obs);
-            dp[i][j] +=dp[i][j+1];
+            if(dp[i][j + 1] != -1){dp[i][j] +=dp[i][j+1];}
         }
 
     }
