@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashlinbinu/DSA-Java/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ashlinbinu/DSA-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashlinbinu/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/ashlinbinu/DSA-Java/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashlinbinu/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/ashlinbinu/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
