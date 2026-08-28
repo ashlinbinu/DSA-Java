@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ashlinbinu/DSA-Java/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ashlinbinu/DSA-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashlinbinu/DSA-Java/tree/master/1301-number-of-paths-with-max-score) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ashlinbinu/DSA-Java/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ashlinbinu/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ashlinbinu/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashlinbinu/DSA-Java/tree/master/1091-shortest-path-in-binary-matrix) |
