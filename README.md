@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/ashlinbinu/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ashlinbinu/DSA-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinbinu/DSA-Java/tree/master/0283-move-zeroes) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ashlinbinu/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/ashlinbinu/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3903-smallest-stable-index-i) |
