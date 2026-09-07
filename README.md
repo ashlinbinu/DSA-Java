@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashlinbinu/DSA-Java/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ashlinbinu/DSA-Java/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/ashlinbinu/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ashlinbinu/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ashlinbinu/DSA-Java/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashlinbinu/DSA-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/ashlinbinu/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashlinbinu/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
