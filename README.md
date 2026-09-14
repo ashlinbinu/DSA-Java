@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashlinbinu/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ashlinbinu/DSA-Java/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ashlinbinu/DSA-Java/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ashlinbinu/DSA-Java/tree/master/0347-top-k-frequent-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashlinbinu/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ashlinbinu/DSA-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0392-is-subsequence) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ashlinbinu/DSA-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ashlinbinu/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -670,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/ashlinbinu/DSA-Java/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ashlinbinu/DSA-Java/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ashlinbinu/DSA-Java/tree/master/0182-duplicate-emails) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
