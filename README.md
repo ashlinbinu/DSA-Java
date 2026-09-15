@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ashlinbinu/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/ashlinbinu/DSA-Java/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0120-triangle) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ashlinbinu/DSA-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ashlinbinu/DSA-Java/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ashlinbinu/DSA-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashlinbinu/DSA-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0189-rotate-array) |
