@@ -24,6 +24,6 @@ class Solution {
 
 
         }
-        return dp[365];
+        return dp[days[days.length-1]];
     }
 }
