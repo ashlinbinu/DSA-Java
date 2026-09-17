@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select distinct num as consecutivenums from logs t where (select num from logs g where id = t.id-1 ) = num and (select num from logs g where id = t.id-2 ) = num;
