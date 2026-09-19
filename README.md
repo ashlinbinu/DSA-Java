@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashlinbinu/DSA-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/ashlinbinu/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/ashlinbinu/DSA-Java/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -685,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashlinbinu/DSA-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
