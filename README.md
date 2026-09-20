@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ashlinbinu/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ashlinbinu/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ashlinbinu/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
