@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ashlinbinu/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0729-my-calendar-i](https://github.com/ashlinbinu/DSA-Java/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/ashlinbinu/DSA-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/ashlinbinu/DSA-Java/tree/master/0881-boats-to-save-people) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0729-my-calendar-i](https://github.com/ashlinbinu/DSA-Java/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/ashlinbinu/DSA-Java/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashlinbinu/DSA-Java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ashlinbinu/DSA-Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashlinbinu/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashlinbinu/DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/ashlinbinu/DSA-Java/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ashlinbinu/DSA-Java/tree/master/0406-queue-reconstruction-by-height) |
+| [0729-my-calendar-i](https://github.com/ashlinbinu/DSA-Java/tree/master/0729-my-calendar-i) |
 ## Tree
 |  |
 | ------- |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ashlinbinu/DSA-Java/tree/master/0729-my-calendar-i) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashlinbinu/DSA-Java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
