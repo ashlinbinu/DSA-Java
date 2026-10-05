@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ashlinbinu/DSA-Java/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/ashlinbinu/DSA-Java/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ashlinbinu/DSA-Java/tree/master/0953-verifying-an-alien-dictionary) |
 | [1092-shortest-common-supersequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/1143-longest-common-subsequence) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/ashlinbinu/DSA-Java/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -755,5 +757,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashlinbinu/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
