@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ashlinbinu/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ashlinbinu/DSA-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashlinbinu/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ashlinbinu/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashlinbinu/DSA-Java/tree/master/0162-find-peak-element) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashlinbinu/DSA-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashlinbinu/DSA-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashlinbinu/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ashlinbinu/DSA-Java/tree/master/0231-power-of-two) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashlinbinu/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashlinbinu/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashlinbinu/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashlinbinu/DSA-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashlinbinu/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
