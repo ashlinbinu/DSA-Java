@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ashlinbinu/DSA-Java/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashlinbinu/DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/ashlinbinu/DSA-Java/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/ashlinbinu/DSA-Java/tree/master/0881-boats-to-save-people) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ashlinbinu/DSA-Java/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashlinbinu/DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashlinbinu/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/ashlinbinu/DSA-Java/tree/master/0729-my-calendar-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashlinbinu/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashlinbinu/DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashlinbinu/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ashlinbinu/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashlinbinu/DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ashlinbinu/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashlinbinu/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/ashlinbinu/DSA-Java/tree/master/0763-partition-labels) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ashlinbinu/DSA-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Database
 |  |
