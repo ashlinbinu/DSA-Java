@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashlinbinu/DSA-Java/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashlinbinu/DSA-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashlinbinu/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashlinbinu/DSA-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashlinbinu/DSA-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashlinbinu/DSA-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
