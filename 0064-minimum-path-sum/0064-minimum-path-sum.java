@@ -23,7 +23,7 @@ class Solution {
         {
             for(int j = 1; j< dp[0].length;j++)
             {
-                dp[i][j] = Math.min(dp[i-1][j]+grid[i][j],dp[i][j-1]+grid[i][j]);
+                dp[i][j] = Math.min(dp[i-1][j],dp[i][j-1])+grid[i][j];
             }
         }
         return dp[grid.length-1][grid[0].length-1];
