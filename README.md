@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ashlinbinu/DSA-Java/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ashlinbinu/DSA-Java/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ashlinbinu/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ashlinbinu/DSA-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ashlinbinu/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ashlinbinu/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0120-triangle) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashlinbinu/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ashlinbinu/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
