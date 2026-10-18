@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ashlinbinu/DSA-Java/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ashlinbinu/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ashlinbinu/DSA-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0120-triangle) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashlinbinu/DSA-Java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ashlinbinu/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashlinbinu/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ashlinbinu/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ashlinbinu/DSA-Java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ashlinbinu/DSA-Java/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
