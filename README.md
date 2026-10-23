@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ashlinbinu/DSA-Java/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/ashlinbinu/DSA-Java/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/ashlinbinu/DSA-Java/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/ashlinbinu/DSA-Java/tree/master/1075-project-employees-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
