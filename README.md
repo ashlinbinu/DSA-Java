@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashlinbinu/DSA-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashlinbinu/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashlinbinu/DSA-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ashlinbinu/DSA-Java/tree/master/0645-set-mismatch) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashlinbinu/DSA-Java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ashlinbinu/DSA-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
