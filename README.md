@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
