@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashlinbinu/DSA-Java/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ashlinbinu/DSA-Java/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ashlinbinu/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ashlinbinu/DSA-Java/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ashlinbinu/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashlinbinu/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ashlinbinu/DSA-Java/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashlinbinu/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ashlinbinu/DSA-Java/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ashlinbinu/DSA-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashlinbinu/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashlinbinu/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
@@ -828,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ashlinbinu/DSA-Java/tree/master/0739-daily-temperatures) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashlinbinu/DSA-Java/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
