@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/ashlinbinu/DSA-Java/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashlinbinu/DSA-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3838-weighted-word-mapping](https://github.com/ashlinbinu/DSA-Java/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/ashlinbinu/DSA-Java/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/ashlinbinu/DSA-Java/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
