@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashlinbinu/DSA-Java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashlinbinu/DSA-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ashlinbinu/DSA-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/ashlinbinu/DSA-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashlinbinu/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ashlinbinu/DSA-Java/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ashlinbinu/DSA-Java/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashlinbinu/DSA-Java/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ashlinbinu/DSA-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ashlinbinu/DSA-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ashlinbinu/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/ashlinbinu/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ashlinbinu/DSA-Java/tree/master/2048-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ashlinbinu/DSA-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashlinbinu/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ashlinbinu/DSA-Java/tree/master/3838-weighted-word-mapping) |
 ## Math
