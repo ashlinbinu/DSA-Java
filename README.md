@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ashlinbinu/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashlinbinu/DSA-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/ashlinbinu/DSA-Java/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ashlinbinu/DSA-Java/tree/master/0645-set-mismatch) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashlinbinu/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashlinbinu/DSA-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ashlinbinu/DSA-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/ashlinbinu/DSA-Java/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ashlinbinu/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ashlinbinu/DSA-Java/tree/master/0494-target-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashlinbinu/DSA-Java/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ashlinbinu/DSA-Java/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ashlinbinu/DSA-Java/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashlinbinu/DSA-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashlinbinu/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/ashlinbinu/DSA-Java/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/ashlinbinu/DSA-Java/tree/master/1013-fibonacci-number) |
